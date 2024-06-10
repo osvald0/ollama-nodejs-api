@@ -19,4 +19,10 @@ pnpm install
 pnpm run dev
 ```
 
+## Next steps
+
+- Add tests.
+- Add authentication middleware.
+- Improve documentation.
+
 Visit http://localhost:3000

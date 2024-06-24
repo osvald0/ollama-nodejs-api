@@ -1,6 +1,5 @@
 import { Hono } from "hono";
-
-import health from '../controllers/health'
+import health from '../controllers/health';
 
 const healthRouter = new Hono();
 

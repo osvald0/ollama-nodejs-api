@@ -1,7 +1,6 @@
 
 import { Hono } from "hono";
-
-import all from '../controllers/all'
+import all from '../controllers/all';
 
 const allRouter = new Hono();
 

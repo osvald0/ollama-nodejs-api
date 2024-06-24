@@ -1,6 +1,6 @@
 import { Hono } from "hono";
-import healthRoutes from './heath';
-import allRoutes from './all'
+import allRoutes from './all';
+import healthRoutes from './health';
 
 const app = new Hono();
 
